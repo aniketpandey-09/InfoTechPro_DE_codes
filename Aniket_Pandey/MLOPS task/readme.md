@@ -32,6 +32,7 @@ This project performs **binary classification** on the Iris dataset using **Apac
 - MLflow is used to **log model parameters, metrics, and the trained model**.
 - Model is stored under `iris_binary_classification`.
 - The logged model is retrieved using the `run_id`.
+- View the Logs from this link :- https://community.cloud.databricks.com/ml/experiments/4199294914396527?viewStateShareKey=c139ddfaea50edc598dd763277c4cf5b83c3dea87443958dbe7cc98b0cfc7a27&compareRunsMode=TABLE&o=3419411776658439
 
 ### 6️⃣ **Batch Inference**
 - The trained model is loaded for inference.
